@@ -13,5 +13,5 @@ so if you want to play with friends you can and in fact if you get a android bud
 1. mcpe users can't teleport when in the void so they die xD (can't fix)
 1. when someone falls in the void everyone teleports up for some reason (idk it was acting like that during testing, if you have a second pi can you test it for me.)
 
-#about
+# about
 This is my first mcpi project and I plan to make bigger and badder ones in the future. I take any pull requests or issues submitted and I really don't care if you fork it. 
